@@ -1,7 +1,7 @@
 from collections import Counter
 """
 AOC2022
-Day2
+Day3
 """
 # Part 1
 sacs = open('3.txt')
